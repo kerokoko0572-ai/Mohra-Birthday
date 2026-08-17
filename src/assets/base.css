@@ -1,0 +1,2 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500&family=Italiana&display=swap');
+:root{--ink:#130d12;--cream:#fff9f5;--rose:#d593a9;--blush:#f2c6ce;--gold:#d9b875;--muted:#bbaeb6}*{box-sizing:border-box}html{scroll-behavior:smooth;background:var(--ink)}body{margin:0;min-height:100vh;color:var(--cream);background:#130d12;font-family:'DM Sans',sans-serif;font-weight:300;line-height:1.5;overflow-x:hidden}button{font:inherit}button:focus-visible{outline:2px solid var(--gold);outline-offset:4px}::selection{background:var(--rose);color:#fff}
